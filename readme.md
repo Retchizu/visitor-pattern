@@ -33,6 +33,6 @@ public class TelcoPromo {
   }
 }
 
-##UML
+## UML
 
 ![image](https://github.com/user-attachments/assets/6a5a1db3-2ced-40e5-b374-7ea145530444)
